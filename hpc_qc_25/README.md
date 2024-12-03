@@ -15,11 +15,12 @@ The goal of our proposal is to establish a regular Minisymposium event at PASC a
 
 The Minisymposium comprises 4 presentations (25-minute talks with 5 minutes for Q&A). 
 People can apply by submitting the following information:
-presentation title 
-a short abstract
-name of speaker (only a single speaker is allowed by the conference)
-List of the authors and institutions
-Please send the information to <alfio.lazzaro@hpe.com> and <tiziano.mueller@hpe.com>. The **deadline** is 22 December 2024 (AoE).  
+- presentation title 
+- a short abstract
+- name of speaker (only a single speaker is allowed by the conference)
+- List of the authors and institutions
+
+Please send the information to <alfio.lazzaro@hpe.com> and <tiziano.mueller@hpe.com>. **The deadline is 22 December 2024 (AoE)**.  
 Then, we will use this information to shape and submit the full proposal at the PASC conference website.
 
 ## Important points
@@ -36,8 +37,9 @@ There is no promise that the Minisymposium will take place at PASC'25 should unt
 
 ## Further inquiries
 
-Please write to 
-<alfio.lazzaro@hpe.com>
-<tiziano.mueller@hpe.com>
+Please write to: 
+- <alfio.lazzaro@hpe.com>
+- <tiziano.mueller@hpe.com>
+
 Use the subject "HPC+QC'25".
 
