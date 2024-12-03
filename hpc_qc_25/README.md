@@ -33,7 +33,7 @@ Furthermore, presenters must come from different institutions (two speakers from
 
 There is no promise that the Minisymposium will take place at PASC'25 should until notified that the second stage submission proposal has been accepted for presentation within the conference program (notification on 06 February 2025). If the proposal is accepted then presentation titles and abstracts (200 words) will be requested from each speaker (deadline 07 March 2025). 
 
-**Please keep in mind that speakers are NOT invited and remote participation is NOT possible. They have to pay for themselves the full conference fee (possibly discounted depending on status).**
+**Please keep in mind that speakers are NOT invited and remote participation is NOT possible. They have to pay for themselves the full conference fee (possibly discounted depending on status).** Please check the [website](https://pasc25.pasc-conference.org/) of the conference for more details.
 
 ## Further inquiries
 
