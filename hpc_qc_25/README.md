@@ -27,7 +27,7 @@ Then, we will use this information to shape and submit the full proposal at the 
 
 The selection is based on "first come, first served," so it is highly encouraged that you send an email with your intention to participate as soon as possible. 
 
-Following the rules of the [PASC'25 conference](https://pasc25.pasc-conference.org/submission/guidelines-for-minisymposia/), we will give priority to speakers at an early career researcher. _A speaker is considered early-career if they have less than 7 years of full-time experience in the field since their last degree (the 7-year window may be extended for extenuating circumstances such as parental or medical leave)._
+Following the rules of the [PASC'25 conference](https://pasc25.pasc-conference.org/submission/guidelines-for-minisymposia/), we will give priority to speakers at an early career researcher: "One of the four speakers must be an early career researcher". _A speaker is considered early-career if they have less than 7 years of full-time experience in the field since their last degree (the 7-year window may be extended for extenuating circumstances such as parental or medical leave)._
 
 Furthermore, presenters must come from different institutions (two speakers from the same institution presenting in the same session will not be accepted). The conference allows *only one talk* to be presented per speaker throughout the conference program.
 
